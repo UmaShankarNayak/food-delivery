@@ -1,0 +1,15 @@
+1--> Security is not covered for this application.
+2--> Automation test are not covered(Unit & Integration with JUnit Framework/Mockito).
+3--> Swagger UI "http://localhost:8088/swagger-ui/index.html#/"
+4--> Product/Item Entity Assumed.
+
+
+# Step to setup Application on local.
+      1. Java17
+      2. Spring/Boot 3
+      3. mysql.
+      -------------
+      4. Database name is <<food-delivery>>
+      5. execute queries.sql, path src/main/resources/sql/queries.sql
+      6. run the application.
+
